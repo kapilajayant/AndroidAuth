@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">BlackCoffer Task</string>
+    <string name="facebook_app_id">259148055250829</string>
+    <string name="fb_login_protocol_scheme">fb259148055250829</string>
+    <string name="welcome_subtitle">Please login or sign up to continue using Helloji</string>
+    <string name="signup_subtitle">Please sign up to continue using Helloji</string>
+    <string name="login_subtitle">Please log in to continue using Helloji</string>
+    <string name="otp_subtitle_1">Please enter your 10 digit phone number.</string>
+    <string name="otp_subtitle_2">It might take a few minutes to receive your code.</string>
+    <string name="title_activity_tags">TagsActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="string_desc">Life is like a piano; the white keys represent happiness and the black show sadness. But as you go through life’s journey, remember that the black keys also create music.</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+</resources>
